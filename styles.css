@@ -234,13 +234,15 @@ nav a {
     margin: 0 auto; /* Center the slideshow container */
     overflow: hidden; /* Hide any overflow to keep photos inside the container */
     display: flex;
+    
 }
-  
+   
   /* Styling for the slideshow photos */
   #slideshow-container img {
     width: 100%; /* Make the photos fill the width of the container */
     height: 100%; /* Maintain the aspect ratio of the photos */
     object-fit: cover; /* Ensure the images maintain aspect ratio while covering the container */
+    
 }
 
 /* Travels page specific styles */
